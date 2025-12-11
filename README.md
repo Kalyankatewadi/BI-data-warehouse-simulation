@@ -1,2 +1,18 @@
-# BI-data-warehouse-simulation
-This project integrates three real public datasets into a unified  Business Intelligence Data Warehouse using SQLite.  - Chicago Crime Dataset  - US Airline On-Time Performance Dataset - NYC Taxi Trip Records
+# BI Data Warehouse Project  
+### Chicago Crime • US Airline Delays • NYC Taxi Trips  
+### SQLite • Python ETL • Star Schema • Power BI / Tableau
+
+This project integrates **three real-world datasets** into a unified  
+**Business Intelligence Data Warehouse** using SQLite.
+
+It demonstrates:
+- ETL engineering  
+- SQL warehouse modeling  
+- Star schema design  
+- Multi-dataset integration  
+- Dashboard-ready data modeling  
+
+---
+
+## 🚀 Project Structure
+
