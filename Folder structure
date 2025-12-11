@@ -1,0 +1,23 @@
+BI-Data-Warehouse/
+│
+├── data/
+│   ├── chicago_crime_sample.csv
+│   ├── airline_on_time_sample.csv
+│   └── nyc_taxi_sample.csv
+│
+├── etl/
+│   ├── load_chicago.py
+│   ├── load_airline.py
+│   └── load_taxi.py
+│
+├── sql/
+│   └── schema.sql
+│
+├── dashboards/
+│   └── dashboard_design.pdf
+│
+├── warehouse.db
+│
+├── README.md
+│
+└── requirements.txt
